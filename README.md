@@ -9,21 +9,20 @@ downloads required data from https://d396qusza40orc.cloudfront.net/getdata%2Fpro
 - loads features.txt used for columns
 - loads X_train.txt, y_train.txt, subject_train.txt
 - X_train contains the data using the feature data set as columns
-y_train contains the activity labels
-subject_train contains the ids
-loads and appends test dataset using X_test.txt, y_test.txt, subject_test.txt
-X_test contains the data using the feature data set as columns
-y_test contains the activity labels
-subject_test contains the ids
-appends train and test data
-rearrange the data using id
-loads activity_labels.txt
-changes the data activity row to use the activity labels
-saves the mean and std into mean_and_std.csv
-saves the tidy dataset into tidy_dataset.csv
-mean_and_std.csv
-contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
-variables:
+- y_train contains the activity labels
+- subject_train contains the ids loads and appends test dataset using X_test.txt, y_test.txt, subject_test.txt
+- X_test contains the data using the feature data set as columns
+- y_test contains the activity labels
+- subject_test contains the ids
+- appends train and test data
+- rearrange the data using id
+- loads activity_labels.txt
+- changes the data activity row to use the activity labels
+- saves the mean and std into mean_and_std.csv
+- saves the tidy dataset into tidy_dataset.csv
+- mean_and_std.csv contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
+
+- Data dictionary = variables:
 
 id
 activity
