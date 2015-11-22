@@ -20,9 +20,10 @@ downloads required data from https://d396qusza40orc.cloudfront.net/getdata%2Fpro
 - changes the data activity row to use the activity labels
 - saves the mean and std into mean_and_std.csv
 - saves the tidy dataset into tidy_dataset.csv
-- mean_and_std.csv contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
 
-- Data dictionary = variables:
+mean_and_std.csv
+contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
+variables:
 
 id
 activity
