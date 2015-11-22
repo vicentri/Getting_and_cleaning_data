@@ -1,7 +1,7 @@
 - CodeBook.md
 
 * mean_and_std.csv
-contains 1 0300 (including header) rows and 82 columns (including enumeration column) in a default csv format
+contains 1 0300 (including header) rows and 82 columns (including enumeration column) in comma separated values format
 variables:
 
 id
@@ -88,7 +88,7 @@ fBodyBodyGyroJerkMag.meanFreq..
 
 
 * tidy_dataset.csv.csv
-contains 181 rows (including header) and 82 columns (including enumeration column) in a default csv format
+contains 181 rows (including header) and 82 columns (including enumeration column) in comma separated values format
 
 variables:
 
